@@ -1,5 +1,5 @@
 # linux_tools
 some linux tools
 
-usb:
+[usb]
 connect /dev/ttyUSB* by picocom
